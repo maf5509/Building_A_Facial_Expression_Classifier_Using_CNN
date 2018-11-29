@@ -1,0 +1,2 @@
+# Classification_Of_Facial_Expressions_Using_CNN
+An Investigation into Convolutional Neural Networks to resolve facial characteristics
