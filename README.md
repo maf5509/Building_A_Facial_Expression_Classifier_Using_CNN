@@ -32,4 +32,4 @@ As such, the decision was made to trawl through the remaining 7,946 images that 
 
 
 
-This set of classes evolved throughout the course of the project, and some classes were later dropped, as will be explained later.
+This set of classes evolved throughout the course of the project, and some classes were later dropped, as will be discussed further as we get into the analysis.
