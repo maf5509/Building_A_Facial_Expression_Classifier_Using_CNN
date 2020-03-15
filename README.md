@@ -1,4 +1,4 @@
-# Classification_Of_Facial_Expressions_Using_CNN
+# Classification of Facial Expressions Using CNN
 ### An Investigation into the use of Convolutional Neural Networks to resolve facial characteristics
 
 ![Some of the faces in the database](https://www.wilmabainbridge.com/images/10kfacedatabase2.jpg)
